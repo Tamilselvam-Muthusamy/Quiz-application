@@ -70,7 +70,7 @@ function Login() {
       >
         <motion.div className="flex items-center justify-center gap-2 rounded-md bg-gray-500 px-2 py-6 text-2xl text-gray-100 shadow-lg">
           <MdOutlineLockReset className="rotate-12 text-4xl" />
-          <h2 className="font-bold">Sterna-Quiz</h2>
+          <h2 className="font-bold">Quiz App</h2>
         </motion.div>
         <motion.div
           variants={loginVariant}
