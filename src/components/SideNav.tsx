@@ -42,7 +42,7 @@ export default function SideNav() {
       >
         <div className="flex w-40 items-center justify-center gap-1 text-xl text-white md:w-40">
           <MdOutlineLockReset className="rotate-12 text-2xl" />
-          <p className="font-extrabold">Sterna-Quiz</p>
+          <p className="font-extrabold">Quiz App</p>
         </div>
       </NavLink>
       <div className="flex grow justify-between rounded-b-md bg-gray-50 px-2 pb-2  shadow-md md:flex-col md:rounded-t-md md:px-0 ">
