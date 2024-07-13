@@ -316,7 +316,7 @@ export class ApiProvider {
 
   async submitTest(data: any) {
     try {
-      const response = await this.server.post("test/evaluate-test", data);
+      const response = await this.server.post("test/submit-test", data);
       const message = this.extractMessage(response);
 
       if (this.isRequestSuccess(response?.status)) {
