@@ -62,7 +62,7 @@ export default function SideNav() {
           }}
         >
           <div className="flex w-full flex-col items-center justify-center gap-4 py-2">
-            <div>Are you sure you want to Sign-Out?</div>
+            <div>Are you sure you want to Sign out?</div>
             <div className="flex gap-4">
               <Button
                 onClick={close}
@@ -78,7 +78,7 @@ export default function SideNav() {
                 variant="filled"
                 radius="md"
               >
-                signout
+                Sign out
               </Button>
             </div>
           </div>
@@ -88,7 +88,7 @@ export default function SideNav() {
           className="my-2 ml-2 flex h-[48px] grow cursor-pointer items-center justify-center gap-2 rounded-md border border-solid border-gray-300 bg-gray-50 p-3 text-sm font-medium hover:bg-gray-500 hover:text-gray-200 md:mx-2  md:my-0 md:flex-none md:justify-start md:p-2 md:px-3"
         >
           <FaPowerOff className="w-6" />
-          <div className="hidden md:block">Sign Out</div>
+          <div className="hidden md:block">Sign out</div>
         </button>
       </div>
     </motion.div>
