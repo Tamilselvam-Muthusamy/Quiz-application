@@ -1,7 +1,7 @@
 import { cleanNotifications, showNotification } from "@mantine/notifications";
 import axios, { HttpStatusCode, InternalAxiosRequestConfig } from "axios";
 
-export const BASE_URL = "http://localhost:3000/api";
+export const BASE_URL = "https://quiz-server-hfup.onrender.com/api";
 
 export const apiClient = axios.create({
   baseURL: BASE_URL,
