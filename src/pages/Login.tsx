@@ -103,7 +103,7 @@ function Login() {
 
               <Button className="mt-4 w-full" type="submit">
                 <div className="flex items-center justify-center gap-1">
-                  <h4 className="text-base font-semibold">Login</h4>{" "}
+                  <h4 className="text-base font-semibold">Log in</h4>{" "}
                   <MdLogin className="h-5 w-5 text-gray-50" />
                 </div>
               </Button>
