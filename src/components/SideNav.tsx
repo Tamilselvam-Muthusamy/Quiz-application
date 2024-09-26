@@ -70,7 +70,7 @@ export default function SideNav() {
                 variant="outline"
                 radius="md"
               >
-                cancel
+                Cancel
               </Button>
               <Button
                 onClick={logoutUser}
