@@ -104,7 +104,8 @@ function Login() {
               />
 
               <Button
-                className="mt-4 w-full"
+                radius={"md"}
+                className="flex h-10 cursor-pointer items-center justify-center rounded-lg border-none  px-4 text-sm font-medium text-white transition-colors  focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:scale-95  aria-disabled:cursor-not-allowed aria-disabled:opacity-50"
                 type="submit"
                 loading={loading}
                 fullWidth
