@@ -84,14 +84,13 @@ To run this project locally:
 ![Screenshot from 2024-09-22 22-21-42](https://github.com/user-attachments/assets/99ce3085-4279-4128-b427-04a54d7c2bde)
 
 ### Subjects
-![Screenshot from 2024-09-22 21-37-25](https://github.com/user-attachments/assets/37a0c85e-6d89-425b-82f5-6ba6c0ea9df5)
-![Screenshot from 2024-09-22 22-25-01](https://github.com/user-attachments/assets/9a32f867-3c1e-407e-aeca-8d7b180ceff8)
+![Screenshot from 2024-10-17 20-04-53](https://github.com/user-attachments/assets/6bdbb7a2-a374-4f27-b282-c4ab65872bf9)
 
 ### Results
 ![Screenshot from 2024-09-22 21-42-12](https://github.com/user-attachments/assets/cdb5953d-bc29-40ad-8c82-db12d8d65a38)
 
 ### Positions
-![Screenshot from 2024-09-22 21-37-39](https://github.com/user-attachments/assets/0361d7f5-0357-475a-bd7f-b8d671863bfe)
+![Screenshot from 2024-10-17 20-05-02](https://github.com/user-attachments/assets/e1823923-b9ab-4cca-b6e9-a0f4741849c0)
 
 ### ReAssign
 ![Screenshot from 2024-09-22 21-42-40](https://github.com/user-attachments/assets/7ce42ac3-cf1d-482e-b456-e8aa64379326)
