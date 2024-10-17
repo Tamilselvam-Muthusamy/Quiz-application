@@ -78,23 +78,23 @@ To run this project locally:
 ## Screenshots
 ## Admin Portal ScreenShots
 ### Admin Dashboard
-![Screenshot from 2024-09-22 21-42-03](https://github.com/user-attachments/assets/768e3276-ab3d-4831-8cc5-15181d353bc3)
+![Screenshot from 2024-09-22 21-42-03](https://github.com/user-attachments/assets/9d50da02-ea8d-411b-a694-96bc317df710)
 
 ### User Module
-![Screenshot from 2024-09-22 22-21-42](https://github.com/user-attachments/assets/cbcac0d2-0f5c-4589-89d5-35eb48877e62)
+![Screenshot from 2024-09-22 22-21-42](https://github.com/user-attachments/assets/99ce3085-4279-4128-b427-04a54d7c2bde)
 
 ### Subjects
 ![Screenshot from 2024-09-22 21-37-25](https://github.com/user-attachments/assets/37a0c85e-6d89-425b-82f5-6ba6c0ea9df5)
 ![Screenshot from 2024-09-22 22-25-01](https://github.com/user-attachments/assets/9a32f867-3c1e-407e-aeca-8d7b180ceff8)
 
 ### Results
-![Screenshot from 2024-09-22 21-42-12](https://github.com/user-attachments/assets/0238e3a4-728a-49cd-b789-8b26f40d3c28)
+![Screenshot from 2024-09-22 21-42-12](https://github.com/user-attachments/assets/cdb5953d-bc29-40ad-8c82-db12d8d65a38)
 
 ### Positions
 ![Screenshot from 2024-09-22 21-37-39](https://github.com/user-attachments/assets/0361d7f5-0357-475a-bd7f-b8d671863bfe)
 
 ### ReAssign
-![Screenshot from 2024-09-22 21-42-40](https://github.com/user-attachments/assets/4fbc808d-61ae-47c9-a985-5a759241f466)
+![Screenshot from 2024-09-22 21-42-40](https://github.com/user-attachments/assets/7ce42ac3-cf1d-482e-b456-e8aa64379326)
 
 
 ## User Portal ScreenShots
