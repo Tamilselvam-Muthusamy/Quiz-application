@@ -99,10 +99,10 @@ To run this project locally:
 
 ## User Portal ScreenShots
 ### User Test Instruction Screen
-![Screenshot from 2024-09-22 21-38-47](https://github.com/user-attachments/assets/2403d78a-fe05-4127-9181-5e2660ea58bd)
+![Screenshot from 2024-09-22 21-38-47](https://github.com/user-attachments/assets/32942ad0-75a5-45d2-a24a-0acc4e46a51c)
 
 ### User Test Screen
-![Screenshot from 2024-09-22 21-39-09](https://github.com/user-attachments/assets/58494d77-c0c8-471f-86d8-8a448809c127)
+![Screenshot from 2024-09-22 21-39-09](https://github.com/user-attachments/assets/90039187-4563-451b-966d-a388f77c57f2)
 
 
 ## Technologies Used
