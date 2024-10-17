@@ -29,7 +29,7 @@ To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quiz-application.git
+    https://github.com/Tamilselvam-Muthusamy/Quiz-application.git
     ```
 
 2. Navigate into the project directory:
@@ -39,12 +39,14 @@ To run this project locally:
 
 3. Install dependencies:
     ```bash
-    npm install
+    npm install or bun install
     ```
 
 4. Start the development server:
     ```bash
-    npm start
+    npm run dev
+        or
+    bun run dev
     ```
 
 ## Usage
