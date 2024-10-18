@@ -8,7 +8,6 @@ This is a Quiz Application developed using React, Mantine, and Tailwind CSS. It 
 - [Usage](#usage)
 - [Admin Role](#admin-role)
 - [User Role](#user-role)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 
 ## Features
@@ -75,28 +74,9 @@ To run this project locally:
   - Attend the quiz tests assigned to them by the admin.
   - Submit their answers for evaluation.
 
-## Screenshots
-## Admin Portal ScreenShots
-### Admin Dashboard
-![Screenshot from 2024-09-22 21-42-03](https://github.com/user-attachments/assets/9d50da02-ea8d-411b-a694-96bc317df710)
-
-### User Module
-![Screenshot from 2024-09-22 22-21-42](https://github.com/user-attachments/assets/99ce3085-4279-4128-b427-04a54d7c2bde)
-
-### Subjects
-![Screenshot from 2024-10-17 20-04-53](https://github.com/user-attachments/assets/6bdbb7a2-a374-4f27-b282-c4ab65872bf9)
-
-### Results
-![Screenshot from 2024-09-22 21-42-12](https://github.com/user-attachments/assets/cdb5953d-bc29-40ad-8c82-db12d8d65a38)
-
-### Positions
-![Screenshot from 2024-10-17 20-05-02](https://github.com/user-attachments/assets/e1823923-b9ab-4cca-b6e9-a0f4741849c0)
-
-### ReAssign
-![Screenshot from 2024-09-22 21-42-40](https://github.com/user-attachments/assets/7ce42ac3-cf1d-482e-b456-e8aa64379326)
-
 
 ## User Portal ScreenShots
+
 ### User Test Instruction Screen
 ![Screenshot from 2024-09-22 21-38-47](https://github.com/user-attachments/assets/32942ad0-75a5-45d2-a24a-0acc4e46a51c)
 
