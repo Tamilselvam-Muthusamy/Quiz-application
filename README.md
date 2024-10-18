@@ -74,16 +74,6 @@ To run this project locally:
   - Attend the quiz tests assigned to them by the admin.
   - Submit their answers for evaluation.
 
-
-## User Portal ScreenShots
-
-### User Test Instruction Screen
-![Screenshot from 2024-09-22 21-38-47](https://github.com/user-attachments/assets/32942ad0-75a5-45d2-a24a-0acc4e46a51c)
-
-### User Test Screen
-![Screenshot from 2024-09-22 21-39-09](https://github.com/user-attachments/assets/90039187-4563-451b-966d-a388f77c57f2)
-
-
 ## Technologies Used
 - **React**: For building the user interface.
 - **Mantine**: For UI components like buttons, modals, and forms.
